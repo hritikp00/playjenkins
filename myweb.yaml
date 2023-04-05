@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: nadeem536/sprint-boot-app:latest
+      - image: hritikp00/sprint-boot-app:latest
         imagePullPolicy: Always
         name: myweb
 
